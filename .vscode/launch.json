@@ -1,7 +1,6 @@
 {
     // USE for run multiple Device in Vscode: Change it in Launch.json file
-  	// Can increase other device by :  In terminal : $ flutter devices : we can found deviceId
-    
+    // Can increase other device by :  In terminal : $ flutter devices : we can found deviceId
     "version": "0.2.0",
     "configurations": [
         {
@@ -14,7 +13,7 @@
             "name": "iPhone 13",
             "request": "launch",
             "type": "dart",
-            "deviceId": "7D5A2E54-8CEC-493C-9AAE-4A0FCB278C18"
+            "deviceId": "CA56766A-2228-4ABC-B3F7-8850A7C10589"
         },
     ],
     "compounds": [
